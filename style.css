@@ -971,7 +971,7 @@ li{
     }
     
 }
-@media(max-width:400px){
+@media(max-width:425px){
 
     .right-side ul a{
         font-size: 10px;
