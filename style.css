@@ -982,6 +982,7 @@ li{
         overflow-x: auto;
         scrollbar-width: none;
         scroll-behavior: smooth;
+        padding: 20px 0;
     }
     .card{
         min-width: 300px;
@@ -1023,6 +1024,7 @@ li{
         overflow-x: auto;             /* horizontal scroll */
         scroll-behavior: smooth;
         padding-left: 10px;
+         padding: 20px 0;
     }
 
     .product-card{
